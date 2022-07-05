@@ -13,4 +13,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+마크다운 미리보기 url: https://dillinger.io/
 -->
+
+# About Me..
+## Introduction
+- e-mail: food030921@hanmail.net
+- SNS: instagram - @cholmanee_
+- github: www.github.com/loeyoh
+## Teck Stack
+ - java, javascript, typescript
+ - SpringBoot, JPA, Mybatis, RDBMS
+ - React, MobX, Material-ui
+ - Kubuernetes
+## tools
+ - Visual Studio Code, eclipse
+ - git, gitlab
+ - jira, confluence
+
+
+
+
+
+
+
+
